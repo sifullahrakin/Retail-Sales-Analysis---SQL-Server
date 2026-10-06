@@ -1,2 +1,2 @@
-# Database-Projects
-This Repo is for Database Projects
+# Retail Sales Analysis
+This is a SQL Server Project
